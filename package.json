@@ -1,0 +1,22 @@
+{
+  "name": "uct-cs",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivermharrison/UCT-CS.git"
+  },
+  "author": "Oliver Harrison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olivermharrison/UCT-CS/issues"
+  },
+  "homepage": "https://github.com/olivermharrison/UCT-CS#readme"
+}

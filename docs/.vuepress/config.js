@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/UCT-CS/',
     title: 'UCT CS',
     description: 'UCT Computer Science',
     themeConfig: {
