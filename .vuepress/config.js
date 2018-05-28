@@ -3,7 +3,7 @@ module.exports = {
     description: 'UCT Computer Science',
     themeConfig: {
         // Assumes GitHub. Can also be a full GitLab url.
-        repo: 'vuejs/vuepress',
+        repo: 'olivermharrison/UCT-CS',
         // Customising the header label
         // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
         repoLabel: 'Contribute!',
