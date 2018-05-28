@@ -15,6 +15,13 @@ module.exports = {
                 collapsable: true,
                 children: [
                     ['/CSC1005F/', 'Introduction'],
+                    '/CSC1005F/fundamentals',
+                    '/CSC1005F/programming',
+                    '/CSC1005F/testing',
+                    '/CSC1005F/big-o',
+                    '/CSC1005F/searching',
+                    '/CSC1005F/sorting',
+                    '/CSC1005F/numbers',
                 ]
             },
             {
